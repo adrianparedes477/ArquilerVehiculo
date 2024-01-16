@@ -1,6 +1,6 @@
 
 
-namespace CleanArchitecture.Domain.Vehiculos;
+namespace CleanArchitecture.Domain.Shared;
 
 public record Moneda(decimal Monto, TipoMoneda TipoMoneda)
 {
